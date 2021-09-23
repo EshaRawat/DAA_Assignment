@@ -51,7 +51,7 @@ int mergeSort(int arr[],int l,int r){
 
 int main(){
     int n,i,t;
-    cin>>t;
+    cin>>t;   // number of test cases
     while(t--){
         cin>>n;
         int arr[n];
